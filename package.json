@@ -1,0 +1,23 @@
+{
+  "name": "js_zfec",
+  "version": "1.0.0",
+  "description": "js_zfec =======",
+  "main": "fec.js",
+  "scripts": {
+    "test": "node test.js | tspec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/calvinmetcalf/js_zfec.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calvinmetcalf/js_zfec/issues"
+  },
+  "homepage": "https://github.com/calvinmetcalf/js_zfec",
+  "devDependencies": {
+    "tap-spec": "^2.2.2",
+    "tape": "^3.5.0"
+  }
+}
