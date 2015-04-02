@@ -2,7 +2,7 @@
   "name": "js_zfec",
   "version": "1.0.0",
   "description": "js_zfec =======",
-  "main": "fec.js",
+  "main": "lib",
   "scripts": {
     "test": "node test.js | tspec"
   },

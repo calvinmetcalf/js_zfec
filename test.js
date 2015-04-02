@@ -1,6 +1,6 @@
 var test = require("tape");
 
-var fec = require("./fec");
+var fec = require("./lib");
 
 function string_to_uint8(s) {
     return new Buffer(s);
